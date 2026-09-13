@@ -1,0 +1,7 @@
+# пример данных 
+Date,Product,Category,Price,Quantity,Sales,Region
+2023-01-01,Product A,Electronics,299,5,1495,North
+2023-01-02,Product B,Clothing,49,12,588,West
+2023-01-03,Product A,Electronics,299,3,897,East
+2023-01-04,Product C,Furniture,599,2,1198,South
+2023-01-05,Product D,Clothing,79,8,632,North
